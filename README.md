@@ -12,7 +12,7 @@ When a user views the source code, they will find a majority of divs have been c
 ![ScreenShot](Assets/images/HoriseonFullPage.png "ScreenShot")
 
 ## Notes
-Everything loaded correctly, and there are no indication of bugs from what I observed.
+Everything loaded correctly, and there are no indications of bugs from what I observed.
 
 ## Acknowledgments for advice and assistance:
 N/A
